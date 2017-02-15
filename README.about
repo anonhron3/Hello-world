@@ -1,0 +1,9 @@
+# Hello-world
+def_name_(fad,intr,always):
+    fad=fadi
+    intr=python
+    always=learning
+    print"Hi there am %s intrested in %s,and always %s."%(fad,intr,always)
+_name_("fad","intr","always")    
+    
+  
